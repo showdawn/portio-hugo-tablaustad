@@ -32,7 +32,7 @@
             {{ .content | markdownify }}
           </div>
           <a type="button" class="btn btn-lg btn-primary btn-zoom"
-            href="{{ .buttonURL | absURL }}">{{ .buttonName }}</a>
+            href="{{ .buttonURL | safeURL }}">{{ .buttonName }}</a>
         </div>
       </div>
       <div class="col-lg-6">

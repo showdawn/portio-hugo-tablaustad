@@ -57,7 +57,7 @@ weight = 4
 
 [params]
 blogPageURL = "blog"
-contactLink = "contact"
+contactLink = "tel:+918884283969"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
